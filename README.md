@@ -1,7 +1,7 @@
 # Random Kathará Labs
 In this repository there are some examples developed using the <a href="https://github.com/KatharaFramework/Kathara/wiki/Kathara-API-Docs">Kathará API</a> that generate network topologies with random elements.
 
-#Firt example: numhosts_and_ips.py
+## First example: numhosts_and_ips.py
 
 In the first example, numhosts_and_ips, a laboratory is generated with a random number of nodes and IPs.
 
