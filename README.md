@@ -26,5 +26,11 @@ Random OSs
 
 <img width="1642" height="837" alt="Captura de pantalla de 2025-11-23 08-58-06" src="https://github.com/user-attachments/assets/b0a08ff2-a15c-4e80-98c3-d3696fea03ed" />
 
+## Fourth example: entry_point_with_a_bridge.py
+
+If you want an interface bridged to your host, simply: 
+
+n=lab.new_machine(nom, **{"image":"kathara/base", "bridged":"True"})
+
 
 
