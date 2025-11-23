@@ -20,6 +20,11 @@ Second example a laboratory is generated with a random number of nodes, IPs and 
 
 <img width="886" height="388" alt="Captura de pantalla de 2025-11-22 10-46-35" src="https://github.com/user-attachments/assets/9f3e291a-6b3e-4609-ad62-c0122e81ec38" />
 
+## Third example: random_os.py
+
+Random OSs
+
+<img width="1642" height="837" alt="Captura de pantalla de 2025-11-23 08-58-06" src="https://github.com/user-attachments/assets/b0a08ff2-a15c-4e80-98c3-d3696fea03ed" />
 
 
 
