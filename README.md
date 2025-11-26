@@ -32,5 +32,13 @@ If you want an interface bridged to your host, simply:
 
 n=lab.new_machine(nom, **{"image":"kathara/base", "bridged":"True"})
 
+## Fifth example: set_content_into_machine.py
+
+Transferring files and content into Docker instances
+
+<img width="1642" height="837" alt="Captura de pantalla de 2025-11-26 06-25-14" src="https://github.com/user-attachments/assets/60bcc714-d187-4e3e-80c4-36afc0b049ac" />
+
+
+
 
 
